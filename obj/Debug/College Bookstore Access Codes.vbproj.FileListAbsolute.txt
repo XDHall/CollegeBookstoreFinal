@@ -1,0 +1,11 @@
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\bin\Debug\College Bookstore Access Codes.exe.config
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\bin\Debug\College Bookstore Access Codes.exe
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\bin\Debug\College Bookstore Access Codes.pdb
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\bin\Debug\College Bookstore Access Codes.xml
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College Bookstore Access Codes.vbprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College_Bookstore_Access_Codes.frmBookstore.resources
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College_Bookstore_Access_Codes.Resources.resources
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College Bookstore Access Codes.vbproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College Bookstore Access Codes.exe
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College Bookstore Access Codes.xml
+C:\Users\Xavier\source\repos\College Bookstore Access Codes\College Bookstore Access Codes\obj\Debug\College Bookstore Access Codes.pdb
